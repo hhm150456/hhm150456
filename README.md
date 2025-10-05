@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hagar Hisham and I'm a junior computer science student, from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Hagar Hisham and I'm a senior computer science student, from Egypt</h2>
 
 ###
 
